@@ -7,7 +7,7 @@ set -e
 yarn build
 
 # переход в каталог сборки
-cd dist
+cd build
 
 # если вы публикуете на пользовательский домен
 # echo 'www.example.com' > CNAME
